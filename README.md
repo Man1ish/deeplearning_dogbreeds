@@ -2,7 +2,7 @@
 <!-- Dog Breeds Classification -->
 ## Dog Breeds Classification
 
-![Solution](https://pandeymanish.com/images/dogbreed.png)
+![Solution](https://raw.githubusercontent.com/Man1ish/deeplearning_dogbreeds/master/dogbreed.jpg)
 One of the challenging tasks in object classification is Fine-grained image classification that aims to classify sub-categories from a large category through fine-grained images. In this classification, it is not easy to distinguish the subtle features that can fully separate the object. The aim of this project is to classify the fine-grained dataset (i.e., dog breed) using a convolutional neural network. We achieved an accuracy of 89.66% using our model.
 
 
@@ -12,7 +12,7 @@ One of the challenging tasks in object classification is Fine-grained image clas
 
 
 ### Architecture
-![Solution](https://pandeymanish.com/images/architecture.png)
+![Solution](https://raw.githubusercontent.com/Man1ish/deeplearning_dogbreeds/master/architecture.png)
 
 
 
@@ -20,11 +20,13 @@ One of the challenging tasks in object classification is Fine-grained image clas
 
 ### Results
 #### Accuracy
-![Solution](https://pandeymanish.com/images/dog-accuracy.png)
+![Solution](https://raw.githubusercontent.com/Man1ish/deeplearning_dogbreeds/master/dog-accuracy.png)
 
 #### Loss
-![Solution](https://pandeymanish.com/images/dog-loss.png)
+![Solution](https://raw.githubusercontent.com/Man1ish/deeplearning_dogbreeds/master/loss.png)
 
 
 ### Auther Detail
+Name: Manish Pandey
+
 Email: manishpandeyabc@gmail.com
